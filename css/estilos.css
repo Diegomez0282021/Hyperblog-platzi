@@ -30,5 +30,15 @@ body{
     padding: 1em 0 0 0;
 }
 #key{
-    color: bisque;
+    color:chocolate;
+}
+#cabecera #logo
+{
+    width: 20px;
+    vertical-align: middle;
+}
+#post
+{
+    background: white;
+    padding: 1em;
 }
