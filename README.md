@@ -2,6 +2,8 @@
 
 - This is a software created to practicing about the commands and the extensive world of Git.
 -This example is taken from a platzi course.
+-Adding to prove the git pickup-cherry command
+-Changes include the command stash as well
 .👌✔👀
 
 # Editor.md
