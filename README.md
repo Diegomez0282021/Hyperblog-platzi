@@ -4,6 +4,10 @@
 -This example is taken from a platzi course.
 -Adding to prove the git pickup-cherry command
 -Changes include the command stash as well
+<<<<<<< HEAD
+=======
+-The last change in new branch is it.
+>>>>>>> mejorando_readme
 .👌✔👀
 
 # Editor.md
